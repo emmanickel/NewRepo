@@ -1,3 +1,5 @@
+I'm adding some more text
+My favourite colour is green
 This is my new text file!
 My name is Emma 
 Today is Wednesday
