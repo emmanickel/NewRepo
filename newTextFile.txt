@@ -1,0 +1,4 @@
+This is my new text file!
+My name is Emma 
+Today is Wednesday
+Welcome to nano
